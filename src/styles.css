@@ -1,0 +1,17 @@
+.box {
+  height: 30px;
+  width: 30px;
+  background-color: red;
+}
+
+.parent {
+  width: 220px;
+  height: 220px;
+  background-color: red;
+}
+
+.child {
+  width: 100px;
+  height: 100px;
+  background-color: yellow;
+}
